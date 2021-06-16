@@ -1,3 +1,3 @@
 # kotlin-serial-comm
 
-This Repository is serial communication client.
+This Repository is for serial communication client in kotlin.
